@@ -1,7 +1,35 @@
 # 💫 About Me:
 🚀 I build scalable cloud-native systems and automate infrastructure.<br><br>🤝 I’m looking to collaborate on distributed systems, CI/CD tooling, and infrastructure automation.<br><br>🌱 Currently diving deeper into Kubernetes internals and cloud-native architecture patterns.<br><br>💬 Ask me about DevOps pipelines, Terraform, Kafka-based systems, and production backend design.<br><br>⚡ Fun fact: I treat infrastructure as code and failures as design feedback.
 
+## ☁️ Cloud & DevOps Certifications
 
+<p align="center">
+
+  <a href="YOUR_AWS_SAA_LINK">
+    <img src="assets/aws-certified-solutions-architect-associate.png" width="130"/>
+  </a>
+
+  <a href="YOUR_AWS_CP_LINK">
+    <img src="assets/aws-certified-cloud-practitioner.png" width="130"/>
+  </a>
+
+  <a href="YOUR_AZURE_DEVOPS_LINK">
+    <img src="assets/microsoft-certified-expert-badge.svg" width="120"/>
+  </a>
+
+  <a href="YOUR_AZURE_DEV_LINK">
+    <img src="assets/microsoft-certified-associate-badge.svg" width="120"/>
+  </a>
+
+  <a href="YOUR_GITHUB_ACTIONS_LINK">
+    <img src="assets/github-actions.svg" width="120"/>
+  </a>
+
+  <a href="YOUR_GITHUB_FOUNDATIONS_LINK">
+    <img src="assets/github-foundations.svg" width="120"/>
+  </a>
+
+</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hariram4862) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hariram.unofficial123@gmail.com) 
 
