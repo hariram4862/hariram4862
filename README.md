@@ -5,31 +5,32 @@
 
 <p align="center">
 
-  <a href="YOUR_AWS_SAA_LINK">
-    <img src="assets/aws-certified-solutions-architect-associate.png" width="130"/>
-  </a>
-
-  <a href="YOUR_AWS_CP_LINK">
-    <img src="assets/aws-certified-cloud-practitioner.png" width="130"/>
-  </a>
-
-  <a href="YOUR_AZURE_DEVOPS_LINK">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/HariRam-5132/EB3CA14536069A44?sharingId=6328B23C50C9B982">
     <img src="assets/microsoft-certified-expert-badge.svg" width="120"/>
   </a>
-
-  <a href="YOUR_AZURE_DEV_LINK">
+  
+  <a href="https://www.credly.com/badges/6636dd13-0d34-4dc7-a868-fa4ffd87a871/public_url">
+    <img src="assets/aws-certified-solutions-architect-associate.png" width="130"/>
+  </a>
+  
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/HariRam-5132/792B972B555774B8?sharingId=6328B23C50C9B982">
     <img src="assets/microsoft-certified-associate-badge.svg" width="120"/>
   </a>
 
-  <a href="YOUR_GITHUB_ACTIONS_LINK">
+  <a href="https://www.credly.com/badges/34385f5c-39da-48ae-90bb-20a17b739950/public_url">
+    <img src="assets/aws-certified-cloud-practitioner.png" width="130"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/HariRam-5132/106F853A5B88954E?sharingId=6328B23C50C9B982">
     <img src="assets/github-actions.svg" width="120"/>
   </a>
 
-  <a href="YOUR_GITHUB_FOUNDATIONS_LINK">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/HariramV-4431/F7D0740248656822?sharingId=98CAD82E60527C31">
     <img src="assets/github-foundations.svg" width="120"/>
   </a>
 
 </p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hariram4862) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hariram.unofficial123@gmail.com) 
 
