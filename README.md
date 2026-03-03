@@ -9,14 +9,14 @@
     <img src="assets/microsoft-certified-expert-badge.svg" width="120"/>
   </a>
   
-  <a href="https://www.credly.com/badges/6636dd13-0d34-4dc7-a868-fa4ffd87a871/public_url">
-    <img src="assets/aws-certified-solutions-architect-associate.png" width="130"/>
-  </a>
-  
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/HariRam-5132/792B972B555774B8?sharingId=6328B23C50C9B982">
     <img src="assets/microsoft-certified-associate-badge.svg" width="120"/>
   </a>
-
+  
+<a href="https://www.credly.com/badges/6636dd13-0d34-4dc7-a868-fa4ffd87a871/public_url">
+    <img src="assets/aws-certified-solutions-architect-associate.png" width="130"/>
+  </a>
+  
   <a href="https://www.credly.com/badges/34385f5c-39da-48ae-90bb-20a17b739950/public_url">
     <img src="assets/aws-certified-cloud-practitioner.png" width="130"/>
   </a>
